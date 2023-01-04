@@ -1,0 +1,8 @@
+POST http://localhost:3000/cats/
+content-type: application/json
+
+{
+    "name": "dojo sensimi",
+    "breed": "american short hair",
+    "age":  1
+}
